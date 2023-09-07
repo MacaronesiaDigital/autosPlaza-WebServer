@@ -1,0 +1,894 @@
+[{
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e359"
+    },
+    "license": "7508 KJB",
+    "group": "DLA",
+    "model": "BMW AUTOMATICO",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e367"
+    },
+    "license": "2735 LSY",
+    "group": "D4",
+    "model": "HYUNDAI I20",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e368"
+    },
+    "license": "9340 LML",
+    "group": "L3",
+    "model": "MERCEDES MERCEDES",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e36b"
+    },
+    "license": "4523 KTK",
+    "group": "F5",
+    "model": "NISSAN JUKE",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e36c"
+    },
+    "license": "6773 KLM",
+    "group": "C3",
+    "model": "OPEL CORSA ESSENTIA",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e36d"
+    },
+    "license": "3882 KPF",
+    "group": "C3",
+    "model": "OPEL CORSA ESSENTIA",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e36e"
+    },
+    "license": "6112 KWX",
+    "group": "C3",
+    "model": "OPEL CORSA ESSENTIA",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e36f"
+    },
+    "license": "7246 KXB",
+    "group": "C3",
+    "model": "OPEL CORSA ESSENTIA",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e370"
+    },
+    "license": "2477 LMB",
+    "group": "C3",
+    "model": "OPEL CORSA ESSENTIA",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e371"
+    },
+    "license": "1052 KVF",
+    "group": "F4",
+    "model": "RENAULT CAPTURE",
+    "color": "TURQUESA",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e372"
+    },
+    "license": "1127 KVF",
+    "group": "F4",
+    "model": "RENAULT CAPTURE",
+    "color": "GRIS",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e369"
+    },
+    "license": "1449 KGZ",
+    "group": "F5",
+    "model": "NISSAN JUKE",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e374"
+    },
+    "license": "5624 KYF",
+    "group": "F4",
+    "model": "RENAULT CAPTURE",
+    "color": "GRIS",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e36a"
+    },
+    "license": "4365 KTK",
+    "group": "F5",
+    "model": "NISSAN JUKE",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e376"
+    },
+    "license": "1100 KNL",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e377"
+    },
+    "license": "5062 KPB",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e378"
+    },
+    "license": "5791 KRD",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e379"
+    },
+    "license": "8394 KRS",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e37a"
+    },
+    "license": "5760 KSG",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e37b"
+    },
+    "license": "0476 KVM",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e37c"
+    },
+    "license": "9979 KWF",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e37d"
+    },
+    "license": "2183 MBZ",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e37e"
+    },
+    "license": "6691 MCG",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e37f"
+    },
+    "license": "7021 MCG",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e380"
+    },
+    "license": "7643 MCT",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO",
+    "latitude": 17.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e381"
+    },
+    "license": "2205 MCX",
+    "group": "DRHA",
+    "model": "RENAULT CLIO HYBRIDO AUTOMATICO",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e382"
+    },
+    "license": "0593 KTV",
+    "group": "D6",
+    "model": "RENAULT CLIO SPORT TOURER",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e383"
+    },
+    "license": "8084 KWD",
+    "group": "D6",
+    "model": "RENAULT CLIO SPORT TOURER",
+    "color": "BLANCO",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e373"
+    },
+    "license": "1135 KVF",
+    "group": "F4",
+    "model": "RENAULT CAPTURE",
+    "color": "PLATA"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e375"
+    },
+    "license": "5791 KHT",
+    "group": "D5",
+    "model": "RENAULT CLIO 900",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e386"
+    },
+    "license": "1244 KVF",
+    "group": "G4",
+    "model": "RENAULT MEGANE SPORT TOURER",
+    "color": "ROJO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e387"
+    },
+    "license": "2789 KBW",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e388"
+    },
+    "license": "2790 KBW",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e389"
+    },
+    "license": "2791 KBW",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e38a"
+    },
+    "license": "2792 KBW",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e38b"
+    },
+    "license": "2793 KBW",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e38c"
+    },
+    "license": "2794 KBW",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e38d"
+    },
+    "license": "1309 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e38e"
+    },
+    "license": "1311 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e38f"
+    },
+    "license": "1319 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e390"
+    },
+    "license": "1403 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e391"
+    },
+    "license": "1406 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e392"
+    },
+    "license": "1436 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e393"
+    },
+    "license": "1437 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e394"
+    },
+    "license": "1438 KFS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e395"
+    },
+    "license": "5880 KFV",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e396"
+    },
+    "license": "6342 LTS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "AZUL"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e397"
+    },
+    "license": "6343 LTS",
+    "group": "D2",
+    "model": "SEAT IBIZA 1.4 A/A",
+    "color": "AZUL"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e398"
+    },
+    "license": "6397 KLV",
+    "group": "A",
+    "model": "TOYOTA AYGO",
+    "color": "GRIS"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e399"
+    },
+    "license": "6525 KLV",
+    "group": "A",
+    "model": "TOYOTA AYGO",
+    "color": "GRIS"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e384"
+    },
+    "license": "8094 KWH",
+    "group": "D6",
+    "model": "RENAULT CLIO SPORT TOURER",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e385"
+    },
+    "license": "1420 KKF",
+    "group": "DRA",
+    "model": "RENAULT MEGANE AUTOMATICO",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e39c"
+    },
+    "license": "8712 JRJ",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "CELESTE"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e39d"
+    },
+    "license": "9051 JRJ",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "CELESTE"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e39e"
+    },
+    "license": "9187 JRJ",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "CELESTE"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e39f"
+    },
+    "license": "9273 JRJ",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "CELESTE"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e3a0"
+    },
+    "license": "0666 JRK",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "GRIS"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e3a1"
+    },
+    "license": "0912 JRK",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "GRIS"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e3a2"
+    },
+    "license": "0988 JRK",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "GRIS"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e35a"
+    },
+    "license": "7590 KJB",
+    "group": "DLA",
+    "model": "BMW AUTOMATICO",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e35b"
+    },
+    "license": "4840 KVP",
+    "group": "DLA",
+    "model": "BMW AUTOMATICO",
+    "color": "AZUL"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e35c"
+    },
+    "license": "0093 JZH",
+    "group": "L2",
+    "model": "BMW BMW 218D ACTIVE TOURER",
+    "color": "PLATA"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e35d"
+    },
+    "license": "0185 JZH",
+    "group": "L2",
+    "model": "BMW BMW 218D ACTIVE TOURER",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e35e"
+    },
+    "license": "0376 JZH",
+    "group": "L2",
+    "model": "BMW BMW 218D ACTIVE TOURER",
+    "color": "AZUL"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e35f"
+    },
+    "license": "0435 JZH",
+    "group": "L2",
+    "model": "BMW BMW 218D ACTIVE TOURER",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e360"
+    },
+    "license": "1573 KYP",
+    "group": "DLXA",
+    "model": "BMW X2 AUTOMATICO",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e361"
+    },
+    "license": "6908 KHJ",
+    "group": "G2",
+    "model": "CITROEN BERLINGO",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e362"
+    },
+    "license": "7469  KJZ",
+    "group": "G2",
+    "model": "CITROEN BERLINGO",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e363"
+    },
+    "license": "2719 LSY",
+    "group": "D4",
+    "model": "HYUNDAI I20",
+    "color": "ROJO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e364"
+    },
+    "license": "2720 LSY",
+    "group": "D4",
+    "model": "HYUNDAI I20",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e365"
+    },
+    "license": "2727 LSY",
+    "group": "D4",
+    "model": "HYUNDAI I20",
+    "color": "PLATA"
+  },
+  {
+    "_id": {
+      "$oid": "64b12a24e6a08aa923c9e366"
+    },
+    "license": "2728 LSY",
+    "group": "D4",
+    "model": "HYUNDAI I20",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717010"
+    },
+    "license": "1572 JGS",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "GRIS"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717011"
+    },
+    "license": "8624 JRJ",
+    "group": "C",
+    "model": "TOYOTA YARIS 1.3 A/A",
+    "color": "CELESTE"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717014"
+    },
+    "license": "9208 JHJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717015"
+    },
+    "license": "9457 JHJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717016"
+    },
+    "license": "7954 JRJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717017"
+    },
+    "license": "8031 JRJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717018"
+    },
+    "license": "8149 JRJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717012"
+    },
+    "license": "1464 KVJ",
+    "group": "DAH",
+    "model": "TOYOTA YARIS AUTOM. HYBRIDO",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a271701a"
+    },
+    "license": "8273 JRJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717013"
+    },
+    "license": "0849 JBD",
+    "group": "H3",
+    "model": "VOLKSWAGEN CADDY MAXI",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a271701c"
+    },
+    "license": "0552 KBK",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a271701d"
+    },
+    "license": "0553 KBK",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a271701e"
+    },
+    "license": "0554 KBK",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a271701f"
+    },
+    "license": "0556 KBK",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717020"
+    },
+    "license": "0557 KBK",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717021"
+    },
+    "license": "0558 KBK",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717022"
+    },
+    "license": "4672 KRW",
+    "group": "DA",
+    "model": "VOLKSWAGEN POLO 1.4 AUTOM.",
+    "color": "AZUL"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717023"
+    },
+    "license": "0000 CAM",
+    "group": "A",
+    "model": "VOLKSWAGEN UP!",
+    "color": ""
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717024"
+    },
+    "license": "0000 ESP",
+    "group": "A",
+    "model": "VOLKSWAGEN UP!",
+    "color": ""
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a2717019"
+    },
+    "license": "8203 JRJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  },
+  {
+    "_id": {
+      "$oid": "64b12cf83e0451d3a271701b"
+    },
+    "license": "8357 JRJ",
+    "group": "D1",
+    "model": "VOLKSWAGEN POLO 1.4",
+    "color": "BLANCO"
+  }]
+  

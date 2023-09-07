@@ -1,0 +1,577 @@
+[{
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af70"
+    },
+    "codBook": "CO11707086",
+    "codClient": "64c7c10df9a996894a6d7756",
+    "license": "6507 GXJ",
+    "deliveryDate": "2023-07-25 13:15",
+    "returnDate": "2023-07-25 13:16",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": [
+      "28.079294204711914",
+      "-15.451435089111328"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af71"
+    },
+    "codBook": "VE11707057",
+    "codClient": "64c7c10df9a996894a6d7757",
+    "license": "7029 HFP",
+    "deliveryDate": "2017-08-14 09:30",
+    "returnDate": "2017-08-17 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "REINA SOFIA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af72"
+    },
+    "codBook": "VE11708001",
+    "codClient": "64c7c10df9a996894a6d7758",
+    "license": "0558 KBK",
+    "deliveryDate": "2017-08-14 09:30",
+    "returnDate": "2017-08-20 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af73"
+    },
+    "codBook": "VE11708003",
+    "codClient": "64c7c10df9a996894a6d7759",
+    "license": "7032 HFP",
+    "deliveryDate": "2017-08-14 09:30",
+    "returnDate": "2017-08-18 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af74"
+    },
+    "codBook": "CO11706250",
+    "codClient": "64c7c10df9a996894a6d775a",
+    "license": "7839 HDW",
+    "deliveryDate": "2017-08-14 09:30",
+    "returnDate": "2017-08-19 19:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af75"
+    },
+    "codBook": "CO11706325",
+    "codClient": "64c7c10df9a996894a6d775b",
+    "license": "4128 HLL",
+    "deliveryDate": "2017-08-14 09:30",
+    "returnDate": "2017-08-21 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af76"
+    },
+    "codBook": "QT11708000",
+    "codClient": "64c7c10df9a996894a6d775c",
+    "license": "7737 HXZ",
+    "deliveryDate": "2017-08-14 09:43",
+    "returnDate": "2017-08-18 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af77"
+    },
+    "codBook": "EC11707017",
+    "codClient": "64c7c10df9a996894a6d775d",
+    "license": "2384 HTN",
+    "deliveryDate": "2017-08-14 10:00",
+    "returnDate": "2017-08-17 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af78"
+    },
+    "codBook": "CH11708000",
+    "codClient": "64c7c10df9a996894a6d775e",
+    "license": "2714 HTZ",
+    "deliveryDate": "2017-08-14 10:00",
+    "returnDate": "2017-08-17 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af79"
+    },
+    "codBook": "CO11703298",
+    "codClient": "64c7c10df9a996894a6d775f",
+    "license": "7028 HFP",
+    "deliveryDate": "2017-08-14 10:00",
+    "returnDate": "2017-08-19 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "RODEOS",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af7a"
+    },
+    "codBook": "CO11706082",
+    "codClient": "64c7c10df9a996894a6d7760",
+    "license": "8846 HYC",
+    "deliveryDate": "2017-08-14 10:00",
+    "returnDate": "2017-08-19 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "RODEOS",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af7b"
+    },
+    "codBook": "CO11708005",
+    "codClient": "64c7c10df9a996894a6d7761",
+    "license": "0849 JBD",
+    "deliveryDate": "2017-08-14 10:00",
+    "returnDate": "2017-08-16 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO FIANZA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af7c"
+    },
+    "codBook": "CO11707086",
+    "codClient": "64c7c10df9a996894a6d7762",
+    "license": "8886 HYC",
+    "deliveryDate": "2017-08-14 11:00",
+    "returnDate": "2017-08-19 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af7d"
+    },
+    "codBook": "CO11708001",
+    "codClient": "64c7c10df9a996894a6d7763",
+    "license": "2228 HHG",
+    "deliveryDate": "2017-08-14 11:00",
+    "returnDate": "2017-08-16 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af7e"
+    },
+    "codBook": "CO11703268",
+    "codClient": "64c7c10df9a996894a6d7764",
+    "license": "2252 HHG",
+    "deliveryDate": "2017-08-14 11:00",
+    "returnDate": "2017-08-19 11:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELEXTRRAD",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af7f"
+    },
+    "codBook": "CH11708001",
+    "codClient": "64c7c10df9a996894a6d7765",
+    "license": "8712 JRJ",
+    "deliveryDate": "2017-08-14 11:15",
+    "returnDate": "2017-08-18 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "PARKING",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af80"
+    },
+    "codBook": "VE11708002",
+    "codClient": "64c7c10df9a996894a6d7766",
+    "license": "0554 KBK",
+    "deliveryDate": "2017-08-14 12:00",
+    "returnDate": "2017-08-18 12:00",
+    "deliveryLocation": "",
+    "returnLocation": "RODEOS",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af81"
+    },
+    "codBook": "GE11706038",
+    "codClient": "64c7c10df9a996894a6d7767",
+    "license": "4191 HLL",
+    "deliveryDate": "2017-08-14 12:55",
+    "returnDate": "2017-08-20 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af82"
+    },
+    "codBook": "CO11708016",
+    "codClient": "64c7c10df9a996894a6d7768",
+    "license": "0435 HSB",
+    "deliveryDate": "2017-08-14 14:00",
+    "returnDate": "2017-08-17 11:00",
+    "deliveryLocation": "",
+    "returnLocation": "REINA SOFIA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af83"
+    },
+    "codBook": "CO11707040",
+    "codClient": "64c7c10df9a996894a6d7769",
+    "license": "2269 HHG",
+    "deliveryDate": "2017-08-14 19:00",
+    "returnDate": "2017-08-20 19:00",
+    "deliveryLocation": "",
+    "returnLocation": "REINA SOFIA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af84"
+    },
+    "codBook": "CO11708017",
+    "codClient": "64c7c10df9a996894a6d776a",
+    "license": "6772 GXJ",
+    "deliveryDate": "2017-08-14 20:20",
+    "returnDate": "2017-08-24 21:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af85"
+    },
+    "codBook": "VE11706042",
+    "codClient": "64c7c10df9a996894a6d776b",
+    "license": "2791 KBW",
+    "deliveryDate": "2017-08-14 23:45",
+    "returnDate": "2017-08-24 21:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af86"
+    },
+    "codBook": "QT11708002",
+    "codClient": "64c7c10df9a996894a6d776c",
+    "license": "8031 JRJ",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-17 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "PARKING",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af87"
+    },
+    "codBook": "CO11708018",
+    "codClient": "64c7c10df9a996894a6d776d",
+    "license": "9422 HTV",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-17 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "PARKING",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af88"
+    },
+    "codBook": "VE11708006",
+    "codClient": "64c7c10ef9a996894a6d776e",
+    "license": "5681 HMP",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-18 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af89"
+    },
+    "codBook": "VE11708007",
+    "codClient": "64c7c10ef9a996894a6d776f",
+    "license": "9254 JHJ",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-19 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af8a"
+    },
+    "codBook": "EC11708000",
+    "codClient": "64c7c10ef9a996894a6d7770",
+    "license": "6737 HYN",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-18 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "REINA SOFIA FIANZA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af8b"
+    },
+    "codBook": "EC11708001",
+    "codClient": "64c7c10ef9a996894a6d7771",
+    "license": "7839 HDW",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-16 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af8c"
+    },
+    "codBook": "CH11708003",
+    "codClient": "64c7c10ef9a996894a6d7772",
+    "license": "4128 HLL",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-17 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af8d"
+    },
+    "codBook": "CH11708005",
+    "codClient": "64c7c10ef9a996894a6d7773",
+    "license": "2269 HHG",
+    "deliveryDate": "2017-08-15 09:30",
+    "returnDate": "2017-08-28 06:00",
+    "deliveryLocation": "",
+    "returnLocation": "REINA SOFIA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af8e"
+    },
+    "codBook": "CO11707117",
+    "codClient": "64c7c10ef9a996894a6d7774",
+    "license": "4198 HLL",
+    "deliveryDate": "2017-08-15 10:00",
+    "returnDate": "2017-08-19 05:15",
+    "deliveryLocation": "",
+    "returnLocation": "RODEOS",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af8f"
+    },
+    "codBook": "CO11708006",
+    "codClient": "64c7c10ef9a996894a6d7775",
+    "license": "6496 HSX",
+    "deliveryDate": "2017-08-15 10:00",
+    "returnDate": "2017-08-20 07:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af90"
+    },
+    "codBook": "QT11708003",
+    "codClient": "64c7c10ef9a996894a6d7776",
+    "license": "8149 JRJ",
+    "deliveryDate": "2017-08-15 10:00",
+    "returnDate": "2017-08-17 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "PARKING",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af91"
+    },
+    "codBook": "TA11708000",
+    "codClient": "64c7c10ef9a996894a6d7777",
+    "license": "6692 GXJ",
+    "deliveryDate": "2017-08-15 10:30",
+    "returnDate": "2017-08-17 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af92"
+    },
+    "codBook": "CO11708021",
+    "codClient": "64c7c10ef9a996894a6d7778",
+    "license": "2390 HTN",
+    "deliveryDate": "2017-08-15 11:00",
+    "returnDate": "2017-08-16 12:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af93"
+    },
+    "codBook": "CH11708004",
+    "codClient": "64c7c10ef9a996894a6d7779",
+    "license": "9457 JHJ",
+    "deliveryDate": "2017-08-15 11:15",
+    "returnDate": "2017-08-21 20:00",
+    "deliveryLocation": "",
+    "returnLocation": "RODEOS",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af94"
+    },
+    "codBook": "CH11707009",
+    "codClient": "64c7c10ef9a996894a6d777a",
+    "license": "9643 JHJ",
+    "deliveryDate": "2017-08-15 11:21",
+    "returnDate": "2017-08-26 23:45",
+    "deliveryLocation": "",
+    "returnLocation": "REINA SOFIA",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af95"
+    },
+    "codBook": "CO11707023",
+    "codClient": "64c7c10ef9a996894a6d777b",
+    "license": "0552 KBK",
+    "deliveryDate": "2017-08-15 12:00",
+    "returnDate": "2017-09-01 06:00",
+    "deliveryLocation": "",
+    "returnLocation": "PARKING",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af96"
+    },
+    "codBook": "VE11708009",
+    "codClient": "64c7c10ef9a996894a6d777c",
+    "license": "6852 HYN",
+    "deliveryDate": "2017-08-15 12:00",
+    "returnDate": "2017-08-22 08:00",
+    "deliveryLocation": "",
+    "returnLocation": "GARAJE",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af97"
+    },
+    "codBook": "CO11708022",
+    "codClient": "64c7c10ef9a996894a6d777d",
+    "license": "7464 HTD",
+    "deliveryDate": "2017-08-15 14:20",
+    "returnDate": "2017-08-19 19:00",
+    "deliveryLocation": "",
+    "returnLocation": "HOTELPTO",
+    "accesories": "",
+    "locationCoords": ""
+  },
+  {
+    "_id": {
+      "$oid": "64d0ebabe1a58b0f1660af98"
+    },
+    "codBook": "CO11708025",
+    "codClient": "64c7c10ef9a996894a6d777e",
+    "license": "4287 HLL",
+    "deliveryDate": "2017-08-15 23:45",
+    "returnDate": "2017-08-31 06:15",
+    "deliveryLocation": "",
+    "returnLocation": "RODEOS",
+    "accesories": "",
+    "locationCoords": ""
+  }]
